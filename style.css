@@ -209,7 +209,7 @@ header .fa-bars{
     display: flex;
     align-items: center;
     min-height: 100vh;
-    background: url('first11.png') no-repeat;
+    background: url('first11.png');
     background-size: cover;
     background-position: center;
 }
@@ -808,4 +808,5 @@ header .fa-bars{
         font-size: 3rem;
     }
 }
+
 
